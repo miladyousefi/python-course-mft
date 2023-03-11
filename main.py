@@ -57,7 +57,6 @@
 # for k in list_test_akharkelas:
 #     print(k)
 
-
 my_set={"milad","yousefi","ali"}
 for j in my_set:
     print(j)
